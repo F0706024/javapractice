@@ -1,4 +1,4 @@
-public class p2{
+public class loop_practice{
     public static void main(String[] args) {
         int row,column;
         for(row = 1 ; row <= 9 ; row++){
